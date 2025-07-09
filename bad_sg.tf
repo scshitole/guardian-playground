@@ -1,5 +1,9 @@
 
-resource "aws_security_group_rule" "d1020" {
+resource "aws_security_group_rule" "d103" {
+
+
+
+
 
   type        = "ingress"
   from_port   = 22
