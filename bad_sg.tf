@@ -1,4 +1,4 @@
-resource "aws_security_group_rule" "bad1" {
+resource "aws_security_group_rule" "bad4" {
   type        = "ingress"
   from_port   = 22
   to_port     = 22
